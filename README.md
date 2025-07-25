@@ -7,10 +7,6 @@ This is a simplified PHP implementation of a media-stegnography for educational 
 
 ## Features
 * Image Data 
-* Basic block structure with data, timestamp, previous hash, and hash.
-* Proof-of-Work (PoW) system using a simple hash target.
-* Chain validation.
-* Adding new blocks to the chain.
 
 ## Limitations
 
