@@ -1,11 +1,9 @@
-# Simple Blockchain In PHP 
+# Simple Media Stegnography In PHP 
 
-## Understanding Blockchain
-
-A blockchain works by creating a secure, transparent, and tamper-proof record of transactions through the use of cryptographic hashing, chaining, decentralization, and a consensus mechanism. This technology has the potential to revolutionize various industries by providing a more secure and efficient way to manage and verify data.
+## What is Steganography ??
+the practice of representing information within another message or physical object, in such a manner that the presence of the concealed information would not be evident to an unsuspecting person's examination
 ## Understanding The Project 
-
-This is a simplified PHP implementation of a blockchain for educational purposes.  It demonstrates the core concepts of a blockchain, including blocks, hashing, and the chain structure.  **This implementation is NOT suitable for production use** as it lacks critical features for scalability.
+This is a simplified PHP implementation of a media-stegnography for educational purposes.  It demonstrates the core concepts of a stegnography tool, including cli actions, **This implementation is NOT suitable for production use** as it lacks critical features for scalability.
 
 ## Features
 * Image Data 
